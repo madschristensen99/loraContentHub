@@ -5,7 +5,7 @@ I am developing a generative tik-tok-like short form video feed app on Livepeer.
 
 https://claircent.com/dreamscroll/index.html
 
-The app uses text to image software whichs can be easily and cheaply fine-tuned with loras to generate consistent charachters and styles. 
+The app uses text to image software which can be easily and cheaply fine-tuned with loras to generate consistent charachters and styles. 
 
 https://huggingface.co/spaces/enzostvs/lora-studio
 
