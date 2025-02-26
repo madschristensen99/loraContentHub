@@ -1,6 +1,16 @@
 # loraContentHub
 
-claircent.com/dreamscroll/index.html
+# Background
+I am developing a generative tik-tok-like short form video feed app on Livepeer. Demo available at:
+
+https://claircent.com/dreamscroll/index.html
+
+The app uses text to image software whichs can be easily and cheaply fine-tuned with loras to generate consistent charachters and styles. 
+
+https://huggingface.co/spaces/enzostvs/lora-studio
+
+Creators making use of LoRA's cannot monetize their content without programmable IP. 
+To solve this, I have created the contract loraContentHub that manages the process of registering LORA's, distributing royalites, and facilitating disputes. 
 
 https://aeneid.storyscan.xyz/address/0x8ed734A9ab0074C20093ECC42E2610ED6139275C
 
