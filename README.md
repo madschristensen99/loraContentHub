@@ -1,4 +1,4 @@
-# loraContentHub
+# LoRa Hub
 
 # Background
 I am developing a generative tik-tok-like short form video feed app on Livepeer. Demo available at:
